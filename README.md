@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Namdev</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js and next.js**
 
 - 💬 Ask me about **Javascript**
 
